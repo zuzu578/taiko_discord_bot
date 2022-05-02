@@ -21,3 +21,7 @@
 <img width="863" alt="스크린샷 2022-05-01 오전 4 03 18" src="https://user-images.githubusercontent.com/69393030/166119227-db62e3aa-d83b-4a62-ba0c-d231ec4b7540.png">
 
 이렇게 redirect 할수 있게 기능을 구현했습니다.
+
+
+!수록곡정보 다운로드 를 명령하면 , 전체수록곡의 장르 , 난이도 , 제목을 엑셀 파일화 시켜서 파일데이터를 줍니다.
+<img width="785" alt="스크린샷 2022-05-02 오후 7 10 01" src="https://user-images.githubusercontent.com/69393030/166218556-064a24ec-3a3b-4e43-88a3-44c76f1ab235.png">
