@@ -14,10 +14,11 @@ public class TaikoSongNameSplitUtils {
 
         List<String> difficulty = new ArrayList<String>();
 
+        // 문자열 뒤에서 부터 자르기. 
         for (int i = paramMap.get("songList").toString().length() - 1; i >= 0; i--) {
 
             difficulty.add(Character.toString(paramMap.get("songList").toString().charAt(i)));
-
+             
             if (i == paramMap.get("songList").toString().length() - 11) {
 
                 break;
