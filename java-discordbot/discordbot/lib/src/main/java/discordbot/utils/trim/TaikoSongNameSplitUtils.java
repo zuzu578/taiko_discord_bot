@@ -31,8 +31,10 @@ public class TaikoSongNameSplitUtils {
         // System.out.println(difficult);
 
         String match = "[^0-9]";
+        // 난이도 (숫자) 를 제외한 모든 문자열 제거 
         difficult = difficult.replaceAll(match, " ").trim();
 
+        // 불필요한 문자열 제거 
         resultMap.put("songs", paramMap.get("songList").toString().replace(difficult, "").replace("NEW!",
                 "").replace("-", "")
                 .replace("SECRET!", "").replace("〇", "").trim());
