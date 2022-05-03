@@ -1,6 +1,10 @@
 # taiko_discord_bot
 태고의달인 디스코드봇 
 
+# 봇주소 
+
+https://discord.com/api/oauth2/authorize?client_id=969926865773010945&permissions=8&scope=bot
+
 # 사용법 
 <img width="879" alt="스크린샷 2022-05-01 오전 4 00 43" src="https://user-images.githubusercontent.com/69393030/166119153-2b4e997d-2d01-4f48-bcc9-b5dfe6be80e5.png">
 
